@@ -1,0 +1,11 @@
+C:\Users\Nyx\source\repos\LendingSystem\LendingSystem\bin\Debug\LendingSystem.exe.config
+C:\Users\Nyx\source\repos\LendingSystem\LendingSystem\bin\Debug\LendingSystem.exe
+C:\Users\Nyx\source\repos\LendingSystem\LendingSystem\bin\Debug\LendingSystem.pdb
+C:\Users\Nyx\source\repos\LendingSystem\LendingSystem\obj\Debug\LendingSystem.csproj.AssemblyReference.cache
+C:\Users\Nyx\source\repos\LendingSystem\LendingSystem\obj\Debug\LendingSystem.Properties.Resources.resources
+C:\Users\Nyx\source\repos\LendingSystem\LendingSystem\obj\Debug\LendingSystem.csproj.GenerateResource.cache
+C:\Users\Nyx\source\repos\LendingSystem\LendingSystem\obj\Debug\LendingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Nyx\source\repos\LendingSystem\LendingSystem\obj\Debug\LendingSystem.exe
+C:\Users\Nyx\source\repos\LendingSystem\LendingSystem\obj\Debug\LendingSystem.pdb
+C:\Users\Nyx\source\repos\LendingSystem\LendingSystem\obj\Debug\LendingSystem.Form1.resources
+C:\Users\Nyx\source\repos\LendingSystem\LendingSystem\obj\Debug\LendingSystem.register.resources
